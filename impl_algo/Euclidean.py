@@ -14,5 +14,3 @@ n = int(input('the smaller int is :'))
 print(Euclidean_algo(m, n))
 
 # m,n must be valued at the same time
-
-
