@@ -1,8 +1,8 @@
 
-#Euclidean_algorithym
+# Euclidean_algorithym
+
 
 def Euclidean_algo(m, n):
-
     while m%n != 0:
         m, n = n, m%n
     else:
